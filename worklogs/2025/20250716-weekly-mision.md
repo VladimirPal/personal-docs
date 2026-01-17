@@ -1,4 +1,5 @@
 ---
+id: weekly-mision-2025-07-16
 slug: weekly-mission-2025-07-16
 title: Weekly Mission July 15–20
 date: 2025-07-16
